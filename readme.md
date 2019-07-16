@@ -8,6 +8,8 @@
     Please make sure you have already installed following python modules 
       Pandas
       Numpy
+      rpy2
+      rpy2(limma)
 
     
     
